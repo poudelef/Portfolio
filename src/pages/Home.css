@@ -66,8 +66,8 @@
     transform: translate(-50%, -50%);
     border-radius: 50%;
     background: conic-gradient(from 0deg,
-            #1dc2c2 0deg,
-            #1dc2c2 10deg,
+            #51e171 0deg,
+            #38b361 10deg,
             transparent 10deg,
             transparent 360deg);
     animation: rotateCircle 10s linear infinite;
