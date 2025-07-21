@@ -7,7 +7,7 @@ const Resume = () => {
 
     const handleDownload = () => {
         const link = document.createElement('a');
-        link.href = '/Sambhav.Poudel_2025.pdf'; 
+        link.href = 'https://poudelef.github.io/Portfolio/Sambhav.Poudel_2025.pdf'; 
         link.download = 'Sambhav.Poudel_2025.pdf';
         document.body.appendChild(link);
         link.click();
